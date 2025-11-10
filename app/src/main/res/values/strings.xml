@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Crossword</string>
+    <string name="clue_header_across">Across</string>
+    <string name="clue_header_down">Down</string>
+    <string name="action_hint">Hint</string>
+    <string name="action_check">Check</string>
+    <string name="message_puzzle_complete">You solved the puzzle! 🎉</string>
+    <string name="message_incorrect_letters">Some letters need another look.</string>
+    <string name="message_keep_going">Keep going, you are close!</string>
+    <string name="message_hint_revealed">Hint placed at row %1$d, column %2$d: '%3$s'.</string>
+    <string name="message_no_hints">Everything is already solved!</string>
+</resources>
